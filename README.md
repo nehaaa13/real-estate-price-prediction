@@ -1,4 +1,4 @@
-# real-state-price-prediction
+# Real Estate Price Prediction
 
 The Real Estate Price Prediction Application is a data science and machine learning project built using Jupyter Notebook, Python, and key libraries like NumPy, Pandas, Matplotlib, and Scikit-Learn. This application aims to predict real estate prices based on various features such as location, square footage, number of bedrooms, and other relevant factors.
 
